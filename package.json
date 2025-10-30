@@ -1,0 +1,17 @@
+{
+  "name": "jogoraizes02",
+  "version": "1.0.0",
+  "description": "",
+  "source": "index.ts",
+  "scripts": {
+    "start": "parcel ./source/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.16.0",
+    "typescript": "^5.9.3"
+  }
+}
